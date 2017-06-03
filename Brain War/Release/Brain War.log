@@ -1,0 +1,11 @@
+﻿  Brain War.cpp
+Brain War.cpp(251): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+Brain War.cpp(257): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+Brain War.cpp(297): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Generating code
+  2 of 22 functions ( 9.1%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  Brain War.vcxproj -> D:\Projects\Win32 Project\Brain War\Release\Brain War.exe
+  Brain War.vcxproj -> D:\Projects\Win32 Project\Brain War\Release\Brain War.pdb (Full PDB)
